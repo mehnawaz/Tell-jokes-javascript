@@ -1,0 +1,30 @@
+
+html, body {
+    background: black;
+    color: pink;
+    font-size: 45px;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    background-color: orange;
+    text-align: center;
+    font-size: 80px;
+    color: red;
+    
+    
+}
+
+#joke{
+    background: rgb(192, 37, 179);
+    height: 30%;
+    width: 70%;
+    margin-left: 200px;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 40px;
+   
+}
